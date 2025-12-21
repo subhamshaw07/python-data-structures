@@ -2,7 +2,7 @@
 Implementation of core data structures like Arrays, Linked Lists, and Trees in Python.
 
 # Python Data Structures
-A collection of fundamental data structures implemented in Python. This repository demonstrates my understanding of Computer Science theory and modern Python syntax.
+A collection of fundamental data structures implemented in Python. This repository demonstrates my understanding of Computer Science theory and Python syntax.
 
 ## Contents
 
