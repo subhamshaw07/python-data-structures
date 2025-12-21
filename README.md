@@ -14,6 +14,6 @@ A collection of fundamental data structures implemented in Python. This reposito
     * **Search:** Using the `in` keyword for efficient linear search.
     * **Input Handling:** Using `f-strings` for user-friendly prompts.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Python 3.x
 * **Focus:** Data Structures & Algorithms (DSA), Efficient Coding Practices
